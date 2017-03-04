@@ -1,0 +1,6 @@
+{
+	"run": "python main.py",
+	"require": {
+		"requests": "pip install requests",
+	}
+}
